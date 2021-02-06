@@ -1,20 +1,22 @@
 # DevFinances
 
 
-🚀 TECNOLOGIAS
+🚀 <strong>TECNOLOGIAS</strong>
 
 O projeto foi desenvolvido com as seguintes tecnologias:
   
-  ° HTML;<br>
-  ° CSS;<br>
-  ° JAVASCRIPT;
+<ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JAVASCRIPT</li>
+</ul>
   
-  💻 PROJETO
+  💻 <strong>PROJETO</strong>
   
   Aplicação de controle financeiro, permitindo adicionar ou remover uma transação. Projeto feito durante a maratona Discover oferecida pela Rocketseat.
   
-  🔖 LAYOUT
+  🔖 <strong>LAYOUT</strong>
   
   Você poderá visualizar clicando no link abaixo:
   
-  https://rhaycf.github.io/finances/#
+  <a target="_blank" href="https://rhaycf.github.io/finances/#">Clique Aqui</a>
