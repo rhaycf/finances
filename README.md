@@ -1,5 +1,8 @@
 # DevFinances
 
+ 💻 <strong>PROJETO</strong>
+  
+ Aplicação de controle financeiro, permitindo adicionar ou remover uma transação. Projeto feito durante a maratona Discover oferecida pela Rocketseat.
 
 🚀 <strong>TECNOLOGIAS</strong>
 
@@ -10,13 +13,9 @@ O projeto foi desenvolvido com as seguintes tecnologias:
     <li>CSS</li>
     <li>JAVASCRIPT</li>
 </ul>
+    
+🔖 <strong>LAYOUT</strong>
   
-  💻 <strong>PROJETO</strong>
+Você poderá visualizar clicando no link abaixo:
   
-  Aplicação de controle financeiro, permitindo adicionar ou remover uma transação. Projeto feito durante a maratona Discover oferecida pela Rocketseat.
-  
-  🔖 <strong>LAYOUT</strong>
-  
-  Você poderá visualizar clicando no link abaixo:
-  
-  <a target="_blank" href="https://rhaycf.github.io/finances/#">Clique Aqui</a>
+<a target="_blank" href="https://rhaycf.github.io/finances/#">Clique Aqui</a>
