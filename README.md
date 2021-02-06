@@ -5,8 +5,8 @@
 
 O projeto foi desenvolvido com as seguintes tecnologias:
   
-  ° HTML;
-  ° CSS;
+  ° HTML;<br>
+  ° CSS;<br>
   ° JAVASCRIPT;
   
   💻 PROJETO
